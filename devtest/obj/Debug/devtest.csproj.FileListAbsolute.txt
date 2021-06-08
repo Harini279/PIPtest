@@ -1,0 +1,7 @@
+C:\Users\harini\source\repos\devtest\bin\Debug\devtest.exe.config
+C:\Users\harini\source\repos\devtest\bin\Debug\devtest.exe
+C:\Users\harini\source\repos\devtest\bin\Debug\devtest.pdb
+C:\Users\harini\source\repos\devtest\obj\Debug\devtest.csprojAssemblyReference.cache
+C:\Users\harini\source\repos\devtest\obj\Debug\devtest.csproj.CoreCompileInputs.cache
+C:\Users\harini\source\repos\devtest\obj\Debug\devtest.exe
+C:\Users\harini\source\repos\devtest\obj\Debug\devtest.pdb
